@@ -1,0 +1,22 @@
+
+
+.main{
+    /* background-color: red; */
+    height: 100%;
+    width: 78vw;
+    padding-top: 3%;
+}
+
+.container{
+height: 100%;
+width: 96%;
+border-radius: 10px;
+background-color:#FFFFFF;
+}
+.nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    /* background-color: aqua; */
+}
